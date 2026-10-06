@@ -1,0 +1,13 @@
+qdrant-client
+opensearch-py
+langchain
+langchain_openai
+langchainhub
+langchain-community
+crewai 
+crewai_tools
+ipykernel
+python-dotenv
+langgraph
+ragas
+datasets
